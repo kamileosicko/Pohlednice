@@ -1,0 +1,93 @@
+body {
+	background-color:#FFF4D8; background-attachment : fixed;text-align: center; padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: Garamond, Times, serif; color: black; padding-top: 0px; 
+}
+/* a:link {color: navy; font-weight: bold; }
+a:visited {color: SaddleBrown; font-weight: bold;}
+a:hover {color: red; font-weight: bold;}  */
+span.zacatek a:link {color: navy}
+span.zacatek a:visited {color: SaddleBrown}
+span.zacatek a:hover {color: red} 
+.hlavni {
+background-color:#FFF4D8;
+}
+div.hlava {
+	background-color:black; text-align: center;  margin: 0px auto;  width: 1000px;   color: white; font-size: 100%; font-weight: normal; 
+}
+div.hlavaindex {
+	  text-align: center;  margin: 0px auto;  width: 1000px;  color: blask; font-size: 100%; font-weight: normal; 
+}
+div.pohledHlava {
+	position: relative; top:0px; width: 1000px;  top:10px; height:210px;
+}
+div.obsah {
+	background-color: #FFF4D8; top:0px; position: relative;  margin: 0px 0px 0px;  width: 1000px;  float: left; font-size: 100%; color: black; text-align: left;
+}
+div.levy {
+	background-color:#FFF4D8; position: relative; width: 270px; top:10px; left: 20px; right: 10px; font-size: 100%;color: yellow;text-align: center; float: left;
+}
+/* div.levy a:link {color: yellow}
+div.levy a:visited {color: #33FF00}
+div.levy a:hover {color: red}  */
+div.text1 {
+	position: relative; width: 670px; top:10px; left: 40px; right: 10px; font-size: 130%;font-weight: bold;color: black;text-align: left; float: left; 
+}
+
+
+div.pata {
+	background-color: navy; position: relative;  margin: 0px 0px 0px;  width: 1000px;   top:0px; left: 0px; float: center; font-size: 100%; color: black; text-align: center;clear:both;
+}
+div.pataD {
+	background-color: black; position: relative;  margin: 0px 0px 0px;  width: 1000px;   top:0px; left: 0px; float: center; font-size: 130%; color: yellow; text-align: center;clear:both; font-weight: bold;
+}
+div.pohledRam {
+	position: relative;  top: 5px; width: 670px; float: left; font-size: 100%; text-align: center;
+}
+div.pohled {
+	position: relative; width: 670px; height:375px; float: left; left: 0px; 
+}
+div.pohledNazev {
+	position: relative;  top: 0px; width: 670px; float: left;  text-align: center;
+}
+div.pohledPosun {
+	position: relative;  top: 0px; width: 670px; float: left;  text-align: center;font-weight: bold;font-size: 110%;center;color:black;
+}
+div.pohledVydal {
+	position: relative;  top: 0px; width: 670px; float: left;  text-align: center;font-weight: bold;font-size: 100%;center;color:SaddleBrown;
+}
+h1 {
+	font-size: 170%;text-align: center; color:navy;font-weight: bold;
+}
+h2 {
+	font-size: 150%;	font-weight: bold;text-align: center;color:SaddleBrown;
+}
+h3 {
+	font-size: 130%;	font-weight: bold;color:black;text-align: center;
+}
+h3.yel {
+	font-size: 130%;	font-weight: bold;color:yellow;text-align: center;
+}
+span.s1 {
+	font-size: 170%;text-align: center; color:navy;font-weight: bold;
+}
+span.s2 {
+	font-size: 150%;	font-weight: bold;text-align: center;color:SaddleBrown;text-align: center;
+}
+span.s3SB {
+	font-size: 130%;	font-weight: bold;color:SaddleBrown;text-align: center;
+}
+span.s3 {
+	font-size: 130%;	font-weight: bold;color:black;text-align: center;
+}
+span.s3a {
+	font-size: 130%;	font-weight: bold;text-align: center;
+}
+span.s3y {
+	font-size: 130%;	font-weight: bold;color:yellow;text-align: center;
+}
+span.s3w {
+	font-size: 120%;	font-weight: bold;color:white;text-align: center;
+}
+
+span.vydal {
+	font-size: 110%;	font-weight: bold;color:SaddleBrown;text-align: center;
+}
